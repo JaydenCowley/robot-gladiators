@@ -23,7 +23,9 @@ var enemyAttack = 12;
 //     console.log(i);
 //     console.log(enemyNames[i] + " is at " + i + " index");
 // }
-
+function(startGame);
+function(endgame);
+function(shop);
 
 var fight = function(enemyName) {
     while (playerHealth > 0 && enemyHealth > 0) {
